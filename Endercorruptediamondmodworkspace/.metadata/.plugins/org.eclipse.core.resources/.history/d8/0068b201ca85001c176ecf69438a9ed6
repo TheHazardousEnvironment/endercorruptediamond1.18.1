@@ -1,0 +1,29 @@
+package com.hazard.ecd;
+
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.fml.common.Mod;
+
+@Mod("ecd")
+public class EnderCorruptediamonds {
+	
+	   public static final String MOD_ID= "ecd";
+	   
+	   public static final CreativeModeTab ECD_TAB = new CreativeModeTab(MOD_ID) {
+		
+		@Override
+		@OnlyIn(Dist.CLIENT)
+		public ItemStack makeIcon() {
+			// TODO Auto-generated method stub
+			return null;
+		}
+	};
+	
+	   public EnderCorruptediamonds() {
+		MinecraftForge.EVENT_BUS.register(this);
+	}
+
+}

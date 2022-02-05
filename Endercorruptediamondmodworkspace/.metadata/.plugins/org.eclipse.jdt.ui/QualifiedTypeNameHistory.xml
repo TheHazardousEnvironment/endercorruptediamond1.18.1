@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.api.distmarker.OnlyIn"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.api.distmarker.Dist"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.ForgeRegistries"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="com.google.common.base.Supplier"/>
+    <fullyQualifiedTypeName name="com.hazard.ecd.EnderCorruptediamonds"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.eventbus.api.IEventBus"/>
+    <fullyQualifiedTypeName name="com.hazard.ecd.init.iteminit"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.level.block.Block"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.DeferredRegister"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Item"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.RegistryObject"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.level.block.state.BlockBehaviour"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.level.block.state.BlockBehaviour.Properties"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.level.material.MaterialColor"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.level.material.Material"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.Item.Properties"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.item.CreativeModeTab"/>
+    <fullyQualifiedTypeName name="com.hazard.ecd.init.BlockInit"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.common.data.SoundDefinition.SoundType"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.level.block.SoundType"/>
+</qualifiedTypeNameHistroy>

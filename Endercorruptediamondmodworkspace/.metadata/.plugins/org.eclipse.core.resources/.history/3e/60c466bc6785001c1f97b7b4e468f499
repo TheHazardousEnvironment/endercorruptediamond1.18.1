@@ -1,0 +1,8 @@
+package com.hazard.ecd;
+
+import net.minecraftforge.fml.common.Mod;
+
+@Mod("ecd")
+public class EnderCorruptediamonds {
+
+}
